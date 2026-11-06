@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "content-plugin-finder",
+  "versions": [
+    {
+      "commit": "671352e136d357e17c19e2bbc2dcc853d38c2e69",
+      "tag": "v0.2.0",
+      "parsed_at": "2026-11-06T19:46:42.694293+00:00"
+    }
+  ]
+}
